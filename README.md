@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Small1Rose
+- 👋 Hi, I’m @Aivan
 - 👀 I’m interested in programming/software development
 
 <!---
